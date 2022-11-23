@@ -11,7 +11,7 @@
 import LocaleSwitcher from '@/components/LocaleSwitcher.vue'
 import MainMenu from '@/components/MainMenu.vue'
 export default {
-  name: 'ScheduleVuews',
+  name: 'SchedulePage',
   components: {
       LocaleSwitcher,
       MainMenu

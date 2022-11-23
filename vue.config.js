@@ -10,5 +10,5 @@ module.exports = defineConfig({
       enableInSFC: false,
       enableBridge: false
     }
-  }
+  },
 })
